@@ -4,6 +4,6 @@ Game created for a 2nd year OOP class in C++
 
 Have fun while learning by helping Mickey put out fires and defeat Corona Bacteria!
 
-The extensive README can be found as a Word doc
+The extensive README can be found as a Word doc above
 
 Thanks for checking it out :)
