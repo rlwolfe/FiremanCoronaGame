@@ -1,0 +1,28 @@
+          E       H   FFF    FF            F    E     F   S
+     F C    FFF  D  FFFF     FF  WWW    H   F         F FFF
+PD   FF FF  FFF      F  C    FF              F    C       E
+D    FF    E FFF C   F      FH  C    E        F            
+     FF  D   FF  D   FF      F            C    F  C      C 
+F    FF WEW  FF   F    FF    FF              H  F          
+W    FF  D         FFFF      FF       FFFFFF     F         
+H    E    WWWWW   E  FFF     FF       FFFFFF       F       
+ENDLEVEL
+                H
+DF       FFFFFF     D   FFF           FF                E
+PD C   FFFFE   FFFC D   FFF  C         FF       C          
+DF     E     C      D   FFF       E     FF                 
+W      FFFFFFF  C  DS   FFF              FF         E      
+   E                    FFF     C      C  FF               
+       F    DD  H   W   FFF                FF         E    
+H  E        DD      W   FFF         C        FF            
+ENDLEVEL
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+PDC   E    C    FD      E    F    E       C   D      FFF  H
+D    C        C FW    E      F C            D W      FFF  H
+SD    E     W   FD D         F          E    D       FFF  H
+D  E    C    W  FDDHD     E  F      H         D      FFF  H
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+ENDLEVEL
+ENDGAME
